@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "predeploy": "npm run build --prod -- --base-href=https://tltk90.github.io/convert-window1255-to-utf8/ --deploy-url=https://tltk90.github.io/convert-window1255-to-utf8/",
-    "deploy": "gh-pages --repo https://$GH_TOKEN@github.com/tltk90/convert-window1255-to-utf8.git -d dist/window1255-to-utf8-converter"
+    "deploy": "gh-pages --repo https://$GH_TOKEN@github.com/tltk90/convert-window1255-to-utf8.git -d dist/window1255-to-utf8-converter -u \"Tzahi Levi <thetzahilevi@gmail.com>\""
   },
   "private": true,
   "dependencies": {
