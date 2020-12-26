@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  github_url: 'https://github.com/tltk90/convert-window1255-to-utf8'
 };
 
 /*
