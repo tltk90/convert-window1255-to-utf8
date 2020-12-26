@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Tzahi\Projects\window1255-to-utf8-converter\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /home/runner/work/convert-window1255-to-utf8/convert-window1255-to-utf8/src/polyfills.ts */"hN/g");
 
 
 /***/ }),
